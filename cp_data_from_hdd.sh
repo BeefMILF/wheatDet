@@ -1,0 +1,1 @@
+cp -r /media/beefmilf/HDD\ 4/projects/wheatDet/data .
