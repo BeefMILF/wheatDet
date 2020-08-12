@@ -1,0 +1,7 @@
+data/*
+new_data/*
+.idea
+2020-07-27/*
+wandb/*
+*__pycache__
+*.ckpt
